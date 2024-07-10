@@ -1,0 +1,38 @@
+Materialart,Standardkosten_Euro,Standardkosten_Cent,Mitgliedskosten_Euro,Mitgliedskosten_Cent,Einheit,berechtigt_für_Rabatt
+Bauschutt,35,0,35,0,€/t,falsch
+Betonabbruch,71,50,71,50,€/t,falsch
+Betonabbruch / Betonplatten ab 2m,110,50,110,50,€/t,falsch
+Rigips (frei von Störstoffen),100,0,100,0,€/t,falsch
+Gasbeton,65,0,65,0,€/t,falsch
+Schrottglas,60,0,60,0,€/t,falsch
+Glasbausteine,65,0,65,0,€/t,falsch
+Erdaushub Z0,31,50,31,50,€/t,falsch
+Erde mit Steine Z0,44,0,44,0,€/t,falsch
+Bitumengemische (Galabau/Straßenaufbruch),88,0,88,0,€/t,falsch
+Kohlehalt. Bitumengemische (Straßenaufbruch),110,50,110,50,€/t,falsch
+Bitumendachbahnen,241,90,241,90,€/t,falsch
+Straßenkehricht,99,0,99,0,€/t,falsch
+Grünschnitt (Ø 20cm),71,50,71,50,€/t,falsch
+Wurzel/Stammholz (Ø 80cm),93,50,93,50,€/t,falsch
+"Holz, unbehandelt A1",59,0,59,0,€/t,falsch
+"Holz, behandelt AII - AIII",88,50,88,50,€/t,falsch
+"Holz, kontaminiert AIV (Zäune, Gartenholz, Bahnschwellen, Weinbergpfähle)",165,50,165,50,€/t,falsch
+"Künstliche Mineralfasern, gefährl. Stoffe",745,0,745,0,€/t,falsch
+Asbesthaltige Baustoffe,350,0,350,0,€/t,falsch
+Folienäcke 2cbm (z.B. für Styropor),3,30,3,30,€/Stk,falsch
+Big Bag (90 cm x 90 cm x 110 cm),11,0,11,0,€/Stk,falsch
+Big Bag (260 cm x 125 cm x 45 cm) - Wellplatten,11,0,11,0,€/Stk,falsch
+"Gewebesack ""Mineralwolle""",5,50,5,50,€/Stk,falsch
+"Papier, Kartonagen",kostenlos,kostenlos,kostenlos,kostenlos,kostenlos,falsch
+Folie (sauber),kostenlos,kostenlos,kostenlos,kostenlos,kostenlos,falsch
+Schrott,kostenlos,kostenlos,kostenlos,kostenlos,kostenlos,falsch
+Aktenvernichtung gem. Datenschutz mit Ordner,82,50,82,50,€/t,falsch
+Aktenvernichtung gem. Datenschutz ohne Ordner,66,0,66,0,€/t,falsch
+Baumischabfall,240,0,240,0,€/t,falsch
+Sperrmüll zur Verwertung,240,0,240,0,€/t,falsch
+Dachpappe teerhaltig,385,0,385,0,€/t,falsch
+Künstliche Mineralfasern,745,0,745,0,€/t,falsch
+Altreifen PKW + LKW mit Felgen,250,0,250,0,€/t,falsch
+Altreifen PKW - LKW ohne Felgen,230,0,230,0,€/t,falsch
+Altreifen EM + AS mit Felgen,390,0,390,0,€/t,falsch
+Altreifen EM + AS ohne Felgen,230,0,230,0,€/t,falsch

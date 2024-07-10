@@ -1,0 +1,520 @@
+[
+    {
+        "Materialart": "Bauschutt",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 35,
+                "Cent": 0
+            },
+            "Mitglied": {
+                "Euro": 35,
+                "Cent": 0
+            }
+        }
+    },
+    {
+        "Materialart": "Betonabbruch",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 71,
+                "Cent": 50
+            },
+            "Mitglied": {
+                "Euro": 71,
+                "Cent": 50
+            }
+        }
+    },
+    {
+        "Materialart": "Betonabbruch / Betonplatten ab 2m",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 110,
+                "Cent": 50
+            },
+            "Mitglied": {
+                "Euro": 110,
+                "Cent": 50
+            }
+        }
+    },
+    {
+        "Materialart": "Rigips (frei von Störstoffen)",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 100,
+                "Cent": 0
+            },
+            "Mitglied": {
+                "Euro": 100,
+                "Cent": 0
+            }
+        }
+    },
+    {
+        "Materialart": "Gasbeton",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 65,
+                "Cent": 0
+            },
+            "Mitglied": {
+                "Euro": 65,
+                "Cent": 0
+            }
+        }
+    },
+    {
+        "Materialart": "Schrottglas",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 60,
+                "Cent": 0
+            },
+            "Mitglied": {
+                "Euro": 60,
+                "Cent": 0
+            }
+        }
+    },
+    {
+        "Materialart": "Glasbausteine",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 65,
+                "Cent": 0
+            },
+            "Mitglied": {
+                "Euro": 65,
+                "Cent": 0
+            }
+        }
+    },
+    {
+        "Materialart": "Erdaushub Z0",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 31,
+                "Cent": 50
+            },
+            "Mitglied": {
+                "Euro": 31,
+                "Cent": 50
+            }
+        }
+    },
+    {
+        "Materialart": "Erde mit Steine Z0",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 44,
+                "Cent": 0
+            },
+            "Mitglied": {
+                "Euro": 44,
+                "Cent": 0
+            }
+        }
+    },
+    {
+        "Materialart": "Bitumengemische (Galabau/Straßenaufbruch)",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 88,
+                "Cent": 0
+            },
+            "Mitglied": {
+                "Euro": 88,
+                "Cent": 0
+            }
+        }
+    },
+    {
+        "Materialart": "Kohlehalt. Bitumengemische (Straßenaufbruch)",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 110,
+                "Cent": 50
+            },
+            "Mitglied": {
+                "Euro": 110,
+                "Cent": 50
+            }
+        }
+    },
+    {
+        "Materialart": "Bitumendachbahnen",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 241,
+                "Cent": 90
+            },
+            "Mitglied": {
+                "Euro": 241,
+                "Cent": 90
+            }
+        }
+    },
+    {
+        "Materialart": "Straßenkehricht",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 99,
+                "Cent": 0
+            },
+            "Mitglied": {
+                "Euro": 99,
+                "Cent": 0
+            }
+        }
+    },
+    {
+        "Materialart": "Grünschnitt (Ø 20cm)",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 71,
+                "Cent": 50
+            },
+            "Mitglied": {
+                "Euro": 71,
+                "Cent": 50
+            }
+        }
+    },
+    {
+        "Materialart": "Wurzel/Stammholz (Ø 80cm)",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 93,
+                "Cent": 50
+            },
+            "Mitglied": {
+                "Euro": 93,
+                "Cent": 50
+            }
+        }
+    },
+    {
+        "Materialart": "Holz, unbehandelt A1",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 59,
+                "Cent": 0
+            },
+            "Mitglied": {
+                "Euro": 59,
+                "Cent": 0
+            }
+        }
+    },
+    {
+        "Materialart": "Holz, behandelt AII - AIII",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 88,
+                "Cent": 50
+            },
+            "Mitglied": {
+                "Euro": 88,
+                "Cent": 50
+            }
+        }
+    },
+    {
+        "Materialart": "Holz, kontaminiert AIV (Zäune, Gartenholz, Bahnschwellen, Weinbergpfähle)",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 165,
+                "Cent": 50
+            },
+            "Mitglied": {
+                "Euro": 165,
+                "Cent": 50
+            }
+        }
+    },
+    {
+        "Materialart": "Künstliche Mineralfasern, gefährl. Stoffe",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 745,
+                "Cent": 0
+            },
+            "Mitglied": {
+                "Euro": 745,
+                "Cent": 0
+            }
+        }
+    },
+    {
+        "Materialart": "Asbesthaltige Baustoffe",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 350,
+                "Cent": 0
+            },
+            "Mitglied": {
+                "Euro": 350,
+                "Cent": 0
+            }
+        }
+    },
+    {
+        "Materialart": "Folienäcke 2cbm (z.B. für Styropor)",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 3,
+                "Cent": 30
+            },
+            "Mitglied": {
+                "Euro": 3,
+                "Cent": 30
+            }
+        }
+    },
+    {
+        "Materialart": "Big Bag (90 cm x 90 cm x 110 cm)",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 11,
+                "Cent": 0
+            },
+            "Mitglied": {
+                "Euro": 11,
+                "Cent": 0
+            }
+        }
+    },
+    {
+        "Materialart": "Big Bag (260 cm x 125 cm x 45 cm) - Wellplatten",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 11,
+                "Cent": 0
+            },
+            "Mitglied": {
+                "Euro": 11,
+                "Cent": 0
+            }
+        }
+    },
+    {
+        "Materialart": "Gewebesack \"Mineralwolle\"",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 5,
+                "Cent": 50
+            },
+            "Mitglied": {
+                "Euro": 5,
+                "Cent": 50
+            }
+        }
+    },
+    {
+        "Materialart": "Papier, Kartonagen",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": "kostenlos",
+                "Cent": "kostenlos"
+            },
+            "Mitglied": {
+                "Euro": "kostenlos",
+                "Cent": "kostenlos"
+            }
+        }
+    },
+    {
+        "Materialart": "Folie (sauber)",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": "kostenlos",
+                "Cent": "kostenlos"
+            },
+            "Mitglied": {
+                "Euro": "kostenlos",
+                "Cent": "kostenlos"
+            }
+        }
+    },
+    {
+        "Materialart": "Schrott",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": "kostenlos",
+                "Cent": "kostenlos"
+            },
+            "Mitglied": {
+                "Euro": "kostenlos",
+                "Cent": "kostenlos"
+            }
+        }
+    },
+    {
+        "Materialart": "Aktenvernichtung gem. Datenschutz mit Ordner",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 82,
+                "Cent": 50
+            },
+            "Mitglied": {
+                "Euro": 82,
+                "Cent": 50
+            }
+        }
+    },
+    {
+        "Materialart": "Aktenvernichtung gem. Datenschutz ohne Ordner",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 66,
+                "Cent": 0
+            },
+            "Mitglied": {
+                "Euro": 66,
+                "Cent": 0
+            }
+        }
+    },
+    {
+        "Materialart": "Baumischabfall",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 240,
+                "Cent": 0
+            },
+            "Mitglied": {
+                "Euro": 240,
+                "Cent": 0
+            }
+        }
+    },
+    {
+        "Materialart": "Sperrmüll zur Verwertung",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 240,
+                "Cent": 0
+            },
+            "Mitglied": {
+                "Euro": 240,
+                "Cent": 0
+            }
+        }
+    },
+    {
+        "Materialart": "Dachpappe teerhaltig",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 385,
+                "Cent": 0
+            },
+            "Mitglied": {
+                "Euro": 385,
+                "Cent": 0
+            }
+        }
+    },
+    {
+        "Materialart": "Künstliche Mineralfasern",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 745,
+                "Cent": 0
+            },
+            "Mitglied": {
+                "Euro": 745,
+                "Cent": 0
+            }
+        }
+    },
+    {
+        "Materialart": "Altreifen PKW + LKW mit Felgen",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 250,
+                "Cent": 0
+            },
+            "Mitglied": {
+                "Euro": 250,
+                "Cent": 0
+            }
+        }
+    },
+    {
+        "Materialart": "Altreifen PKW - LKW ohne Felgen",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 230,
+                "Cent": 0
+            },
+            "Mitglied": {
+                "Euro": 230,
+                "Cent": 0
+            }
+        }
+    },
+    {
+        "Materialart": "Altreifen EM + AS mit Felgen",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 390,
+                "Cent": 0
+            },
+            "Mitglied": {
+                "Euro": 390,
+                "Cent": 0
+            }
+        }
+    },
+    {
+        "Materialart": "Altreifen EM + AS ohne Felgen",
+        "berechtigt_für_Rabatt": false,
+        "Kosten": {
+            "Standard": {
+                "Euro": 230,
+                "Cent": 0
+            },
+            "Mitglied": {
+                "Euro": 230,
+                "Cent": 0
+            }
+        }
+    }
+]
